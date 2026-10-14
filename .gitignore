@@ -1,1 +1,30 @@
 
+# Temporary editor files
+*.bak
+*.tmp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+
+# Build output folders
+build/
+out/
+
+# Compiled files
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+*.exe
+
+# Arduino temporary output
+*.ino.eep
+*.ino.with_bootloader.bin
+
